@@ -11,5 +11,5 @@ func main() {
 	fmt.Println(firstName)
 	fmt.Println(familyName)
 	fmt.Println(age)
-	fmt.Println(peanutAllergy) 
+	fmt.Println(peanutAllergy)
 }
