@@ -1,1 +1,7 @@
-package _5_sam
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World 👌")
+}
