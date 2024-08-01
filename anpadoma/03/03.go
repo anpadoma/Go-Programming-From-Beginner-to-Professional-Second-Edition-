@@ -14,5 +14,5 @@ func main() {
 	}
 	fmt.Println(len(helloList))
 	fmt.Println(helloList[len(helloList)-1])
-	fmt.Println(helloList[len(helloList)])
+	// fmt.Println(helloList[len(helloList)])
 }
